@@ -1,0 +1,3 @@
+# Enable GUI installer on SQL when you are running a server core
+#
+PathtoSQLexpressInstallfile\Setup.exe /UIMODE=EnableUIOnServerCore /ACTION=INSTALL
